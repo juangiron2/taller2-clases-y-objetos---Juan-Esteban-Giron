@@ -1,4 +1,4 @@
-from Cuenta_modelo import Cuenta
+from cuentamodelo import Cuenta
 
 def menu(cuentaClientes):
     while True:
